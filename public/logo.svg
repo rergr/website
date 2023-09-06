@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="109.617" height="109.617" viewBox="0 0 109.617 109.617">
+    <g id="logo" transform="translate(0.5 0.5)">
+        <ellipse id="Ellipse_31" data-name="Ellipse 31" cx="54.309" cy="54.309" rx="54.309" ry="54.309" transform="translate(0)" fill="#f2f2f3" stroke="#231f20" stroke-miterlimit="10" stroke-width="1"/>
+        <ellipse id="Ellipse_32" data-name="Ellipse 32" cx="23.197" cy="23.197" rx="23.197" ry="23.197" transform="translate(23.995 29.432)" fill="#596f8c" stroke="#231f20" stroke-miterlimit="10" stroke-width="2"/>
+        <line id="Line_2" data-name="Line 2" y1="4.839" x2="52.587" transform="translate(47.192 24.593)" fill="none" stroke="#231f20" stroke-miterlimit="10" stroke-width="2"/>
+        <line id="Line_3" data-name="Line 3" x1="55.369" y1="5.091" transform="translate(46.3 75.826)" fill="none" stroke="#231f20" stroke-miterlimit="10" stroke-width="2"/>
+        <line id="Line_4" data-name="Line 4" y1="0.315" x2="61.425" transform="translate(47.192 52.314)" fill="none" stroke="#231f20" stroke-miterlimit="10" stroke-width="3"/>
+        <path id="Path_7" data-name="Path 7" d="M80.989,35.81C63.922,36.1,70.283,52.121,92.556,64.822c16.406,9.352,37.556,6.865,28.288-8.439" transform="translate(-51.001 1.253)" fill="none" stroke="#231f20" stroke-miterlimit="10" stroke-width="2"/>
+        <path id="Path_8" data-name="Path 8" d="M110.462,44.079a1.575,1.575,0,0,1,0-3.149,1.575,1.575,0,0,1,0,3.149Z" transform="translate(-79.424 1.507)" fill="#231f20"/>
+        <path id="Path_9" data-name="Path 9" d="M103.962,47.379a1.575,1.575,0,0,1,0-3.149,1.575,1.575,0,0,1,0,3.149Z" transform="translate(-66.101 1.671)" fill="#231f20"/>
+    </g>
+</svg>
